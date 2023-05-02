@@ -2,12 +2,15 @@
 
 ![App](https://github.com/leandrosax10/storecar-api/blob/master/src/img/logotipoStoreCar.png)
 
+![App](https://github.com/leandrosax10/storeCar-ui/blob/master/src/assets/storecarApp.gif)
+
  Este projeto é uma UI em React Native desenvolvida para fins de aprendizado e portfólio.
  
  ## Tecnologias utilizadas
  
 * [Visual Studio Code - IDE](#VS_CODE)
 * [React Native](#ReactNative)
+* [Expo](#Expo)
 * [Geny Motion](#GenyMotion)
 
 
