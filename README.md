@@ -34,4 +34,5 @@
  
  `$ expo start`
  
+ #### Aplicativo em construção... ![App](https://github.com/leandrosax10/Desacelera_/blob/master/icone%20construcao.png)
   
